@@ -1,1 +1,1 @@
-# MultiSpectral-Satellite-Image-Dehazing
+# MultiSpectral-Satellite-Image-Dehazing-And-Its-Application
